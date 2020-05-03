@@ -1096,6 +1096,44 @@ section.lazy-placeholder:after {
 .cid-rXWQigJYsA .card .panel-body {
   color: #767676;
 }
+.cid-rXWWuvSkPU {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  position: relative;
+  background-color: #f9f9f9;
+}
+.cid-rXWWuvSkPU .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-rXWWuvSkPU .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-rXWWuvSkPU .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-rXWWuvSkPU .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rXWWuvSkPU .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-rXWWuvSkPU .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-rXWWuvSkPU .card .panel-body {
+  color: #767676;
+}
 .cid-rXeiwHDRsg {
   padding-top: 30px;
   padding-bottom: 30px;
