@@ -1052,10 +1052,12 @@ section.lazy-placeholder:after {
 }
 .cid-rXe8L3aWxk H1 {
   color: #ffffff;
+  text-shadow: 6px 6px 6px rgba(0,0,0,0.3);
 }
 .cid-rXe8L3aWxk .mbr-text,
 .cid-rXe8L3aWxk .mbr-section-btn {
   color: #ffffff;
+  text-shadow: 6px 6px 6px rgba(0,0,0,0.3);
   text-align: center;
 }
 .cid-rXWWuvSkPU {
