@@ -628,12 +628,12 @@ section.lazy-placeholder:after {
 }
 .cid-rXd0j0EHNb .navbar {
   padding: .5rem 0;
-  background: #ffffff;
+  background: #efefef;
   transition: none;
   min-height: 77px;
 }
 .cid-rXd0j0EHNb .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #efefef;
 }
 .cid-rXd0j0EHNb a {
   font-style: normal;
@@ -724,7 +724,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rXd0j0EHNb .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #efefef;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -1062,7 +1062,7 @@ section.lazy-placeholder:after {
   padding-top: 60px;
   padding-bottom: 60px;
   position: relative;
-  background-color: #f9f9f9;
+  background-color: #f8f8f8;
 }
 .cid-rXWWuvSkPU .card {
   border-radius: 0px;
