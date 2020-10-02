@@ -564,7 +564,8 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "text-shadow": "2px 2px 2px #323a13"
             }
           },
           "_name": "header1",
@@ -574,7 +575,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
