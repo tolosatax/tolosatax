@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#adbf31",
         "#2e2e2e",
         "#90c63a",
         "#000000",
         "#ccdee4",
         "#f8f8f8",
-        "#7b4050",
-        "#778ca4"
+        "#7b4050"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -563,7 +563,7 @@
               "color": "#ffffff"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#f8f8f8",
+              "color": "#adbf31",
               "text-align": "center"
             }
           },
