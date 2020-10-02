@@ -65,7 +65,7 @@
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/green-circle-36x34.png",
+    "favicon": "@PROJECT_PATH@/assets/images/green-circle-73x69.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
