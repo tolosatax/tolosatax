@@ -65,7 +65,7 @@
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/bell-only-1-2-128x144.png",
+    "favicon": "@PROJECT_PATH@/assets/images/artboard-1-128x181-1.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
