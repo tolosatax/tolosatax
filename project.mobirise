@@ -73,7 +73,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "publishChangesOnly": true
+    "publishChangesOnly": false,
+    "mbrsiteDomain": "l0r0w0ye3t"
   },
   "pages": {
     "index.html": {
