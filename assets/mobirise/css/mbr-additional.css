@@ -1086,8 +1086,8 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-sc2A9PMvnn {
-  padding-top: 0px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
 }
 .cid-sc2A9PMvnn .mbr-text {
@@ -1098,6 +1098,14 @@ section.lazy-placeholder:after {
 }
 .cid-sc2A9PMvnn div.b {
   padding-top: 2rem;
+}
+.cid-sc2A9PMvnn H5 {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-sc2A9PMvnn H2 {
+  text-align: center;
+  color: #ffffff;
 }
 .cid-rXeiwHDRsg {
   padding-top: 30px;
