@@ -74,7 +74,7 @@
     "gdpr": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "publishChangesOnly": false,
-    "mbrsiteDomain": "64l6z6kwue",
+    "mbrsiteDomain": "q6pgo7fher",
     "usedWebp": false
   },
   "pages": {
@@ -82,7 +82,7 @@
       "settings": {
         "main": true,
         "title": "Tolosa Tax",
-        "meta_descr": "Tolosa Tax. A professional tax preparation firm based in San Luis Obispo, CA with expertise in individual and small buisness tax preparation.",
+        "meta_descr": "Tolosa Tax. A professional tax preparation firm with expertise in individual and small business tax preparation.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
